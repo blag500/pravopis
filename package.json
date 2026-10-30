@@ -1,0 +1,8 @@
+{
+  "name": "pravopis",
+  "version": "0.1.0",
+  "description": "Проверка на българския правопис за Claude Code: речник (hunspell bg_BG) + правила по Института за български език при БАН",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": { "nspell": "^2.1.5" }
+}
